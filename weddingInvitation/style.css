@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>دعوة زفاف فاطمة وبلال</title>
+
+<style>
+ body {
+     margin: 0;
+     background-color: #fff8f5;
+     color: #6b4b4b;
+     text-align: center;
+     font-family: Arial, sans-serif;
+ }
+
+.invitation {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+    box-sizing: border-box;
+}
+
+.flower {
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+
+.bismillah {
+    font-size: 22px;
+    margin-bottom: 25px;
+}
+
+h1 {
+    font-size: 60px;
+    color: #a66b6b;
+    margin: 20px;
+}
+
+h2 {
+    font-size: 30px;
+    color: #a66b6b;
+}
+
+p {
+    font-size: 19px;
+    line-height: 2;
+}
+
+.date {
+    margin-top: 30px;
+    padding: 20px 40px;
+    background-color: white;
+    border-radius: 20px;
+    box-shadow: 0 5px 20px rgba(100, 70, 70, 0.15);
+}
+
+.button {
+    margin-top: 25px;
+    padding: 12px 25px;
+    background-color: #a66b6b;
+    color: white;
+    border-radius: 25px;
+    text-decoration: none;
+    display: inline-block;
+}
+</style>
+</head>
+
+<body>
+
+<div class="invitation">
+
+<div class="flower">🌸</div>
+
+<p class="bismillah">
+                    بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ
+</p>
+
+<p>
+ بكل حب وسعادة
+<br>
+ نتشرف بدعوتكم لحضور حفل زفاف
+</p>
+
+<h1>فاطمة & بلال</h1>
+
+<p>
+ ﴿ وَمِنْ آيَاتِهِ أَنْ خَلَقَ لَكُم مِّنْ أَنفُسِكُمْ
+ أَزْوَاجًا لِّتَسْكُنُوا إِلَيْهَا ﴾
+</p>
+
+<div class="date">
+
+<h2>💍 تفاصيل الزفاف 💍</h2>
+
+<p>📅 السبت - 10 أكتوبر 2026</p>
+
+<p>🕰️ الساعة 7:00 مساءً</p>
+
+<p>📍 كوالالمبور - ماليزيا</p>
+
+</div>
+
+<a class="button" href="#">
+                          💌 تأكيد الحضور
+</a>
+
+<p>
+ ننتظركم لمشاركتنا فرحتنا 🤍
+</p>
+
+</div>
+
+</body>
+
+</html>
